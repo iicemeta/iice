@@ -70,6 +70,11 @@ export const profileConfig: ProfileConfig = {
 			url: "https://www.instagram.com/phrichardmiku",
 		},
 		{
+			name: "Threads",
+			icon: "fa6-brands:threads",
+			url: "https://www.threads.com/@phrichardmiku",
+		},
+		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/iicemeta",
