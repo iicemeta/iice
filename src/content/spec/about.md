@@ -1,9 +1,22 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 感謝您的來訪！
 
-::github{repo="saicaca/fuwari"}
+## 關於我
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+你好，我是 iice 。
+
+---
+
+## 聯絡我
+
+你可以透過下面的方式聯絡我：
+
+- Email: [meta@iice.me](mailto:meta@iice.me)
+- Telegram: [@iice](https://t.me/iicemeta)
+- Twitter: [X](https://x.com/richardmikupro)
+
+---
+
+## 其他資訊
+
+> 暂无！ヾ(≧▽≦*)o
+
