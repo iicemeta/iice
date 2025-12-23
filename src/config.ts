@@ -67,12 +67,12 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Instagram",
 			icon: "fa6-brands:instagram",
-			url: "https://www.instagram.com/phrichardmiku",
+			url: "https://www.instagram.com/phiicemeta",
 		},
 		{
 			name: "Threads",
 			icon: "fa6-brands:threads",
-			url: "https://www.threads.com/@phrichardmiku",
+			url: "https://www.threads.com/@phiicemeta",
 		},
 		{
 			name: "GitHub",
