@@ -4,7 +4,7 @@ published: 2025-12-20
 description: 'Hello, welcome to IICE!'
 image: ''
 tags: ['Hello-World']
-category: ''
+category: 'Hello-World'
 draft: false 
 lang: ''
 ---
